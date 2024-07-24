@@ -9,3 +9,10 @@
 
 # Download
 Download Debloated Windows 10 using [this link](https://www,google.com)
+
+# Version Information
+The version used is Microsoft Windows 10 Pro x64 EN-US 22h2
+
+# Removed Apps
+- 1
+- 2
