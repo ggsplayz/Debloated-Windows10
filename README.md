@@ -8,7 +8,7 @@
 <br>
 
 # Download Debloated Windows 10 Revision 1
-Download Debloated Windows 10 using [this link](https://www,google.com)
+Download Debloated Windows 10 using [this link](https://drive.google.com/file/d/1ruO6ufzmLOYMfXFjuY9yh73Chrhh7lEj/view?usp=sharing)
 
 # Version Information
 The version used is Microsoft Windows 10 Pro x64 EN-US 22h2
