@@ -7,6 +7,9 @@
 </div>
 <br>
 
+# Support the project
+You can support the project by [donating via PayPal](https://paypal.me/ggsplayz)
+
 # Download Debloated Windows 10 Revision 1
 Download Debloated Windows 10 using [this link](https://drive.google.com/file/d/1ruO6ufzmLOYMfXFjuY9yh73Chrhh7lEj/view?usp=sharing)
 
