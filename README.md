@@ -49,22 +49,22 @@ The version used is Microsoft Windows 10 Pro x64 EN-US 22h2
 - BitLocker
 
 # Disabled Privacy Related Settings
-- Allow apps access - Appointments
-- Allow apps access - Call History
-- Allow apps access - Camera
-- Allow apps access - Diagnostic information
-- Allow apps access - Email
-- Allow apps access - Messages
-- Allow apps access - Phone Calls
-- Allow apps access - Picture Library
-- Allow apps access - Radios
-- Allow apps access - Video Library
-- Allow Experimentation - Microsoft Data
-- Allow Location Services
-- Allow Telemetry - Microsoft Data
-- Allow Automatic Installation of sponsored apps (Candy Crush, Facebook, Spotify...)
-- Allow Automatic Installation of suggested apps (Minecraft, Flipboard...)
-- Allow Collect contacts, typed text to help Windows and Cortana
+- Apps access - Appointments
+- Apps access - Call History
+- Apps access - Camera
+- Apps access - Diagnostic information
+- Apps access - Email
+- Apps access - Messages
+- Apps access - Phone Calls
+- Apps access - Picture Library
+- Apps access - Radios
+- Apps access - Video Library
+- Experimentation - Microsoft Data
+- Location Services
+- Telemetry - Microsoft Data
+- Automatic Installation of sponsored apps (Candy Crush, Facebook, Spotify...)
+- Automatic Installation of suggested apps (Minecraft, Flipboard...)
+- Collect contacts, typed text to help Windows and Cortana
 
 # Settings to improve overall performance
 - Pre-Enabled Fullscreen optimizations
