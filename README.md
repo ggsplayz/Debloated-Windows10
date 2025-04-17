@@ -92,11 +92,10 @@ The version used is Microsoft Windows 10 Pro x64 EN-US 22h2
 - Disabled BitLocker Drive Encryption Service
 
 # Get Help
-You can [join the Official Discord Server](https://discord.gg/U9DC7bAh9d) or contact @ggsplayz in Discord
+You can contact @ggsplayz in Discord
 
 # Legal Disclaimer
-YurServices and/or ggsplayz do not sell Microsoft Windows or any other software. We do not endorse or condone
-the use of pirated software. Microsoft Windows is a registered trademark of Microsoft Corporation. All rights
-to the Windows operating system and associated trademarks belong to Microsoft Corporation. Our services are
-intended to help users in installing legitimate optimized copies of Windows. YurServices and/or ggsplayz WILL
-NOT ship any license with the Windows ISO file.
+ggsplayz does not sell Microsoft Windows or any other software. We do not endorse or condone the use of pirated software.
+Microsoft Windows is a registered trademark of Microsoft Corporation. All rights to the Windows operating system and
+associated trademarks belong to Microsoft Corporation. Our services are intended to help users in installing legitimate
+optimized copies of Windows. ggsplayz WILL NOT ship any license with the Windows ISO file.
