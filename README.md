@@ -7,8 +7,8 @@
 </div>
 <br>
 
-# Support the project
-You can support the project by [donating via PayPal](https://paypal.me/ggsplayz)
+# IMPORTANT!!!
+Windows 10 is reaching its end of life soon (14 oct 2025) and so will this modified ISO, I recommend switching to Windows 10 LTSC.
 
 # Download Debloated Windows 10 Revision 1
 Download Debloated Windows 10 using [this link](https://drive.google.com/file/d/1ruO6ufzmLOYMfXFjuY9yh73Chrhh7lEj/view?usp=sharing)
